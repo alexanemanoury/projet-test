@@ -1,4 +1,4 @@
-/*ul#menu {
+ul#menu {
     padding: 0;
 }
 
@@ -16,5 +16,27 @@ ul#menu li a {
 
 ul#menu li a:hover {
     background-color: orange;
-}*/
+}
 
+h3 {
+    color: #D431A7;
+    font-family: Century Gothic;
+    }
+
+h1 {
+    color: #7A6C76;
+    font-family: Century Gothic;
+}
+
+p {
+    font-family: Century Gothic;
+}
+footer {
+    margin-top: 50px;
+    text-decoration: none;
+}
+
+header {
+    margin-bottom: 50px;
+    text-decoration: none;
+}
