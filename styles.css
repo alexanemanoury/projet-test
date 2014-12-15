@@ -30,13 +30,26 @@ h1 {
 
 p {
     font-family: Century Gothic;
+    font-weight: bold
 }
 footer {
     margin-top: 50px;
     text-decoration: none;
+    text-align: center;
+    padding: 20px;
 }
 
 header {
     margin-bottom: 50px;
     text-decoration: none;
+    text-align: center;
+    padding: 20px;
+}
+
+body {
+    background-image: url(images/wallpaper3_4_3.jpg);
+    background-size: cover;
+}
+img {
+    border-radius:10px;
 }
